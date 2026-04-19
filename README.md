@@ -23,10 +23,10 @@ Sistemas diseñados para funcionar 24/7, enfocados en infraestructura crítica y
 
 | | Proyecto | Descripción | |
 |---|---|---|---|
-| ⚽ | **[futbolstats](#)** | SaaS Multi-tenant para gestión de ligas y estadísticas de fútbol. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 🎥 | **Logger Radios** | Sistema de grabación y monitoreo de streams con FFmpeg. | ![Streaming](https://img.shields.io/badge/Streaming-Live-red?style=flat-square) |
-| 🌐 | **[mikrotik-manager](#)** | Automatización de redes y monitoreo de dispositivos MikroTik. | ![Networking](https://img.shields.io/badge/Networking-Config-orange?style=flat-square) |
-| ✈️ | **Flight Scraper** | Scraping avanzado de vuelos y almacenamiento en bases de datos. | ![Scraping](https://img.shields.io/badge/Data-Extract-blue?style=flat-square) |
+| ⚽ | **[futbolstats](https://github.com/LeandroManna/futbolstats-)** | SaaS Multi-tenant para gestión de ligas y estadísticas de fútbol. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🎥 | **[Homelab-netbook](https://github.com/LeandroManna/homelab-netbook)** | Debian 12 server running on an old Intel Atom netbook — Flask, Nginx, Tailscale and more. | ![Streaming](https://img.shields.io/badge/Streaming-Live-red?style=flat-square) |
+| 🌐 | **[mikrotik-manager](https://github.com/LeandroManna/mikrotik-manager)** | Automatización de redes y monitoreo de dispositivos MikroTik. | ![Networking](https://img.shields.io/badge/Networking-Config-orange?style=flat-square) |
+| ✈️ | **[Gym-admin](https://github.com/LeandroManna/gym-admin)** | Sistema web ligero para la gestión de gimnasios y centros deportivos desarrollado en PHP y MySQL. Incluye control de membresías, vencimiento automático de clases y terminal de autogestión (Kiosko) | ![Xampp](https://img.shields.io/badge/Data-Extract-blue?style=flat-square) |
 
 ---
 

@@ -10,8 +10,8 @@ Building real-world solutions for broadcasting, monitoring, and automation.
 
 <br/>
 
-<a href="https://github.com/LeandroManna"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/leandro-manna-8ba809247"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:leandromanna@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 

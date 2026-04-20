@@ -36,9 +36,9 @@ A diferencia de un dev convencional, mi stack une el software con la infraestruc
 
 **Automation & Scraping** `Selenium` · `Puppeteer` · `BeautifulSoup` · `Telegram Bot API`
 
-**Streaming & Media** `FFmpeg` · `RTMP / HLS` · `Flusonic` · `VDO.Ninja`
+**Streaming & Media** `FFmpeg` · `RTMP / HLS` ·
 
-**Backend & Data** `Python (Flask)` · `PHP` · `MySQL / PostgreSQL` · `SQLite`
+**Backend & Data** `Python (Flask)` · `PHP` · `MySQL` · `SQLite`
 
 **Infrastructure** `Mikrotik` · `UniFi` · `Linux / Windows Server` · `Network Monitoring`
 
